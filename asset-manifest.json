@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-build-practice/static/js/main.c8539d16.js",
+    "index.html": "/react-build-practice/index.html",
+    "main.c8539d16.js.map": "/react-build-practice/static/js/main.c8539d16.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8539d16.js"
+  ]
+}
